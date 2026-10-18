@@ -64,7 +64,6 @@ With a solid background in component-based architecture and state management, I 
 ---
 
 ## 🤝 Connect with Me
-* **LinkedIn:** [:linkedin.com/in/hiba-momar)
+* **LinkedIn:** https://linkedin.com/in/hiba-momar
 * **Email:** hebamomar851@gmail.com
 * **Location:** Aleppo, Syria
-*
