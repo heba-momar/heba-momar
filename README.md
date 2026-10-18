@@ -1,15 +1,6 @@
 # Hi there, I'm Hiba Momar! 👋
 ### Junior Front-End Developer | React.js | TypeScript | Computer Engineer
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hebamomar851@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -21,11 +12,17 @@ With a solid background in component-based architecture and state management, I 
 
 ## 🛠️ Technical Toolbox
 
-### 💻 Languages & Core
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+ماعز### 💻 Languages & Core
+* 🟡 **JavaScript** (ES6+)
+* 🔵 **TypeScript**
+* 🟠 **HTML5**
+* 🔵 **CSS3**
 
 ### ⚛️ Frameworks & State Management
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* ⚛️ **React.js**
+* 💜 **Redux Toolkit**
+* 🎨 **Tailwind CSS**
+* 🟪 **Bootstrap**
 
 ### 🔧 Tools & Practices
 * **Practices:** Responsive & Mobile-First Design, Component-Based Architecture, REST API Integration, Figma-to-Code.
@@ -47,13 +44,6 @@ With a solid background in component-based architecture and state management, I 
 ### 📰 [Newspaper Project](https://github.io)
 * **Tech Stack:** React.js, Advanced State Management.
 * **Key Features:** Magazine-style news layout built within a strict 5-day training milestone.
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Hiba's GitHub Stats" />
-</p>
 
 ---
 
