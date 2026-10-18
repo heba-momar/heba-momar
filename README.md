@@ -22,16 +22,16 @@ With a solid background in component-based architecture and state management, I 
 ## 🛠️ Technical Toolbox
 
 ### 💻 Languages & Core
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+ <img src="https://shields.io" alt="JavaScript" />
+ <img src="https://shields.io" alt="TypeScript" />
+ <img src="https://shields.io" alt="HTML5" />
+ <img src="https://shields.io" alt="CSS3" />
 
 ### ⚛️ Frameworks & State Management
-![React](https://shields.io)
-![Redux](https://shields.io)
-![TailwindCSS](https://shields.io)
-![Bootstrap](https://shields.io)
+  <img src="https://shields.io" alt="React" />
+ <img src="https://shields.io" alt="Redux" />
+ <img src="https://shields.io" alt="TailwindCSS" />
+ <img src="https://shields.io" alt="Bootstrap" />
 
 ### 🔧 Tools & Practices
 * **Practices:** Responsive & Mobile-First Design, Component-Based Architecture, REST API Integration, Figma-to-Code.
