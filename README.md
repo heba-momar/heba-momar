@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there, I'm Hiba Momar! 👋
+### Junior Front-End Developer | React.js | TypeScript | Computer Engineer
 
-<!--
-**heba-momar/heba-momar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hebamomar851@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate **Computer Engineer** and **Junior Front-End Developer** based in Aleppo, Syria. I specialize in building responsive, high-performance, and interactive web applications using **React.js** and **TypeScript**. 
+
+With a solid background in component-based architecture and state management, I love translating complex Figma designs into clean, mobile-first user interfaces. I also have hands-on experience in team collaboration, agile-like deadlines, and technical leadership.
+
+---
+
+## 🛠️ Technical Toolbox
+
+### 💻 Languages & Core
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+### ⚛️ Frameworks & State Management
+![React](https://shields.io)
+![Redux](https://shields.io)
+![TailwindCSS](https://shields.io)
+![Bootstrap](https://shields.io)
+
+### 🔧 Tools & Practices
+* **Practices:** Responsive & Mobile-First Design, Component-Based Architecture, REST API Integration, Figma-to-Code.
+* **Tools:** Git, GitHub, VS Code, Vercel, GitHub Pages.
+
+---
+
+## 📂 Featured Projects
+
+### 🛍️ [Style Loom — E-Commerce Web App](https://vercel.app)
+* **Role:** Deputy Team Leader (Coordinated tasks for on-time delivery within a 20-day sprint).
+* **Tech Stack:** React.js, Tailwind CSS, State Management, Mock REST API.
+* **Key Features:** Full CRUD operations via an Admin Dashboard, dynamic cart system, product listings, and ratings based on Figma designs.
+
+### 🌐 [NextGen — React Application](https://github.io)
+* **Tech Stack:** React.js, HTML5, CSS3, GitHub Pages.
+* **Key Features:** A fully responsive web app applying core React fundamentals and component workflows.
+
+### 📰 [Newspaper Project](https://github.io)
+* **Tech Stack:** React.js, Advanced State Management.
+* **Key Features:** Magazine-style news layout built within a strict 5-day training milestone.
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Hiba's GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+* **LinkedIn:** [:linkedin.com/in/hiba-momar)
+* **Email:** hebamomar851@gmail.com
+* **Location:** Aleppo, Syria
+*
